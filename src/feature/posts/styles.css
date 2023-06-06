@@ -1,0 +1,30 @@
+.addPost {
+    width: 100%;
+    padding: auto;
+}
+
+.addPost input, select, textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.btn-save {
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    border-color: transparent;
+    background-color: #481499;
+    color: aliceblue;
+}
+
+.btn-back {
+    display: inline-block;
+    background: #1976d2;
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    margin-left: 1rem;
+}
